@@ -1,0 +1,24 @@
+tko (test kit operation) - install program
+npm (node packcage manager)
+pip
+cd (change pasttko)
+mv(movets) mover pasta / renomear 
+tio - input e ouput do test
+ls - lista o que está
+
+
+
+git - mensagem - commit - enviar
+
+tko run - roda o arquivo em cases ---- tko run cases.testes.ts
+
+
+git status
+git add
+
+
+
+crases em to STRING $
+
+
+
